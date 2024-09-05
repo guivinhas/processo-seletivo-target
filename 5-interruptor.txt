@@ -1,0 +1,8 @@
+Ligue o Interruptor A e deixe-o ligado por um tempo. Isso faz a lâmpada esquentar.
+Desligue o Interruptor A e ligue o Interruptor B. Deixe o Interruptor B ligado.
+Vai até as salas das lâmpadas
+A lâmpada que está ligada é do Interruptor B.
+Toque nas lâmpadas que estão desligadas:
+A que está quente é do Interruptor A (porque estava ligada antes).
+A que está fria é do Interruptor C (porque nunca foi ligada).
+você descobre qual interruptor controla cada lâmpada pelo temperatura das lampadas.
